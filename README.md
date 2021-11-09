@@ -2,7 +2,6 @@
 
 - 🔭 Specializing in front-end developer
 - 🌱 Studying ReactJS
-- 😄 Pronouns: He/His
 
 <div align="center">
   <a href="https://github.com/caiohenriquesantos">
